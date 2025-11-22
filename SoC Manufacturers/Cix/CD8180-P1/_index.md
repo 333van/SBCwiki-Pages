@@ -56,6 +56,7 @@ List of boards:
 {{< taglist CD8180 >}} 
 
 - Minisforum MS-R1
+- OrangePi 6 Plus
 
 ---
 
